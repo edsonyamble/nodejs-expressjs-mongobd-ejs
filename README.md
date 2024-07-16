@@ -70,7 +70,7 @@ $ pm2 start server.js
 # Запустить в режиме реального времени
 $ npm run dev `Dev mod`
 
-# Запустить в pruduction моде
+# Запустить в production моде
 $ pm2 start server.js `Prod mod`
 )))
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
