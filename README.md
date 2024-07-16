@@ -64,7 +64,7 @@ $ npm install
 <span class="pl-c"><span class="pl-c">#</span> Запустить в режиме dev</span>
 $ npm run dev
 
-<span class="pl-c"><span class="pl-c">#</span> Запустить в pruduction моде</span>
+<span class="pl-c"><span class="pl-c">#</span> Запустить в production моде</span>
 $ npm install pm2@latest -g
 $ pm2 start server.js
 # Запустить в режиме реального времени
